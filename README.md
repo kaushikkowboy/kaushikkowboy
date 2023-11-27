@@ -9,7 +9,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  websiteUrl: "[https://kaushik.dev/](https://kaushik.dev/)",
+  websiteUrl: "https://kaushik.dev/",
   askMeAbout: [
     "webdev", "tech", "anime","limnophile",
     "webdesign", "problem-solving"

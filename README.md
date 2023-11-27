@@ -11,8 +11,8 @@ export default () => ({
   pronouns: "He" | "Him",
   websiteUrl: "https://kaushik.dev/",
   askMeAbout: [
-    "webdev", "tech", "anime",
-    "webdesign",
+    "webdev", "tech",
+    "anime", "webdesign"
   ],
   technologies: {
     frontEnd: {

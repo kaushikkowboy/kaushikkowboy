@@ -5,6 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8994775/kaushik-c)](https://stackoverflow.com/users/8994775/kaushik-c)
 
 👨‍🎓 Computer Science Engineer from the Francis Xavier Engineering College 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ```js
 export default () => ({

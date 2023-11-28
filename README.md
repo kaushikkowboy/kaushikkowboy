@@ -17,11 +17,11 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "vue"],
+      js: ["react"],
       css: ["materialize", "bootstrap"]
     },
     backEnd: {
-      php: ["CI","laravel"],
+      php: ["CI","magento"],
       js: ["node", "express"],
     },
     databases: ["mongo", "mysql", "redis"]

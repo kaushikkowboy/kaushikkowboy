@@ -24,7 +24,7 @@ export default () => ({
       php: ["CI","magento"],
       js: ["node", "express"],
     },
-    databases: ["mongo", "mysql", "redis"]
+    databases: ["mongo", "mysql"]
   }
 });
 ```
